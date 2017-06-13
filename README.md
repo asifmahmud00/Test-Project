@@ -1,4 +1,4 @@
 # Test-Project
 Test first project
-wow
-THat's great!
+wow!
+That's great!
